@@ -1,0 +1,24 @@
+body{
+    background-color: #0f0;
+  }
+  html, body {
+    margin-top: 50px;
+  }
+  a, p {
+    padding-right: 200px;
+    color: #fff;
+    font-size: 70px;
+  }
+  
+  html { 
+      background: #f0f no-repeat center center fixed; 
+  }
+  .container {
+    background-color: transparent;
+    text-align: center;
+  }
+
+#mariovdiv{ 
+    padding-top: 40px;
+    font-style: italic;
+}
